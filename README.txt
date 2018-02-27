@@ -1,1 +1,1 @@
-I trying to see how i can work with git
+I am trying to see how i can work with git
